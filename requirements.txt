@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib>=3.9
+nltk
+torch
+transformers
+sentence-transformers
+kagglehub
